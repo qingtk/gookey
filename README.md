@@ -19,7 +19,7 @@ minecraft
 
 Pascal's triangle ;
 Pascal's pyramid ;
-Paley graph ;
+Paley graph ; Pappus graph ; 
 voxel ;
 snark ; snark graph ;
 integer partition ; plane partition ;
